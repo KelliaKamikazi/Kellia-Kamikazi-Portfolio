@@ -6,7 +6,7 @@ Welcome to my portfolio website! This project showcases my work, skills, and exp
 
 ## About Me
 
-Hi, I'm [Your Name], a passionate software developer with a knack for creating innovative and efficient solutions. With a strong background in web development, I enjoy tackling challenging problems and continuously learning new skills. Here, you'll find some of my favorite projects that showcase my skills and experience.
+Hi, I'm Kamikazi Kellia, a passionate software developer with a knack for creating innovative and efficient solutions. With a strong background in web development, I enjoy tackling challenging problems and continuously learning new skills. Here, you'll find some of my favorite projects that showcase my skills and experience.
 
 ## Projects
 
